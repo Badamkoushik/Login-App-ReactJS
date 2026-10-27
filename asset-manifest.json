@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Login-App-ReactJS/static/css/main.3ee3565a.chunk.css",
+    "main.js": "/Login-App-ReactJS/static/js/main.6aa09766.chunk.js",
+    "main.js.map": "/Login-App-ReactJS/static/js/main.6aa09766.chunk.js.map",
+    "runtime-main.js": "/Login-App-ReactJS/static/js/runtime-main.4ba14e82.js",
+    "runtime-main.js.map": "/Login-App-ReactJS/static/js/runtime-main.4ba14e82.js.map",
+    "static/js/2.8ede7056.chunk.js": "/Login-App-ReactJS/static/js/2.8ede7056.chunk.js",
+    "static/js/2.8ede7056.chunk.js.map": "/Login-App-ReactJS/static/js/2.8ede7056.chunk.js.map",
+    "index.html": "/Login-App-ReactJS/index.html",
+    "static/css/main.3ee3565a.chunk.css.map": "/Login-App-ReactJS/static/css/main.3ee3565a.chunk.css.map",
+    "static/js/2.8ede7056.chunk.js.LICENSE.txt": "/Login-App-ReactJS/static/js/2.8ede7056.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ba14e82.js",
+    "static/js/2.8ede7056.chunk.js",
+    "static/css/main.3ee3565a.chunk.css",
+    "static/js/main.6aa09766.chunk.js"
+  ]
+}
